@@ -1,0 +1,6 @@
+Ivanov 20000.5
+Pupkin 15000.35
+Ogurcov 100000.0
+Oganesyan 120000.75
+Dudkin 35000.125
+Vasyutkin 12000.0
